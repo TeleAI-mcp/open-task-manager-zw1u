@@ -1,2 +1,3 @@
-# open-task-manager-zw1u
-Repository to test GitHub automation for issue management
+# Open Task Manager Zw1U
+
+A repository to test GitHub automation for issue management.
